@@ -3,6 +3,7 @@
 *.local
 *.log*
 pnpm-lock.yaml
+package-lock.json
 # Dist
 node_modules
 dist/
